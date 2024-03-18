@@ -35,6 +35,21 @@ DATA STRUCTURES
 
 A way of organising data so you can have easy access to it. we have various structures such as LISTS
 
-LISTS
+LISTS are like arrays.
 
-are like arrays,
+DAY 4
+
+OPERATORS
+
+Operators are used to manipulate and perform actions to data.
+
+we have Arithmetic operator used in Mathematical calculations.
+
+examples of arithmetic operators are:
+
+Addition, Division, Multiplication, Exponential etc.
+other Operators are: Comparison, Logical, and Membership.
+
+Control Flow deals with FORLOOP and WHILELOOP 
+FUNCTIONS are like machines that takes input to produce an output.
+CLASSES AND OBJECTS helps with labeling and organizing collections.
